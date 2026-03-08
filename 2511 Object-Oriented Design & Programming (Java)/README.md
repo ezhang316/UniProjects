@@ -1,5 +1,3 @@
-# 2511
-Relevant files:  
-Group project/src  
-Group project/mind_map  
-Group project/project_UML  
+# 2511: Object-Oriented Design & Programming (Java)
+
+Java-based object-oriented programming with emphasis on design patterns, inheritance, polymorphism, and SOLID principles. Includes a significant group project demonstrating practical OOP design in a team setting.

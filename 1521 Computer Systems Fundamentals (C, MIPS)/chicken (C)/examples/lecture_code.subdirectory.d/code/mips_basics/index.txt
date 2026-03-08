@@ -1,2 +1,0 @@
-i_love_mips.c
-i_love_mips.s

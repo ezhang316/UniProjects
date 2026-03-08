@@ -1,6 +1,6 @@
 # UNSW Computer Science Portfolio
 
-A collection of university coursework projects from UNSW demonstrating core computer science fundamentals, data structures, algorithms, systems programming, databases, and full-stack development.
+A collection of university coursework projects from UNSW demonstrating core computer science fundamentals, data structures, algorithms, systems programming, databases, and full-stack development.test
 
 ## Courses & Projects
 
